@@ -57,7 +57,7 @@ The core research question driving this analysis is: *"Does the customer satisfa
 
 ## How to Run
 
-To replicate the analysis, open the `KARI_NITYA_Assignment-4.Rmd` or `ClusteringAnalysisFashion.Rmd` file in RStudio and knit the document. Ensure that the necessary R libraries are installed.
+To replicate the analysis, open the `ClusteringAnalysisFashion.Rmd` file and the `Fashion_Retail_Sales.csv` in RStudio and knit the document. Ensure that the necessary R libraries are installed and the dataset is loaded.
 
 ## Results
 
