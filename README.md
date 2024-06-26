@@ -6,13 +6,13 @@ This project focuses on performing a clustering analysis on fashion retail sales
 
 ## Project Components
 
-1. **R Markdown File (KARI_NITYA_Assignment-4.Rmd):** 
+1. **R Markdown File (ClusteringAnalysisFashion.Rmd):** 
    This file contains the complete R code used for the clustering analysis. It includes sections for loading and preparing the dataset, performing the clustering analysis using k-means, and visualizing the results.
 
 2. **CSV Data File (Fashion_Retail_Sales.csv):**
    The dataset consists of sales transactions from a fashion retail store. It includes variables such as the type of clothing item purchased, the purchase amount in USD, the date of purchase, customer satisfaction levels, and payment method.
 
-3. **PDF Report (KARI_NITYA_Assignment-4.pdf):**
+3. **PDF Report (ClusteringAnalysisFashion.pdf):**
    A comprehensive report that summarizes the findings of the clustering analysis. It includes visualizations and discussions on the results.
 
 4. **Alternate R Markdown File (ClusteringAnalysisFashion.Rmd):**
